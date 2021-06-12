@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bohdan! :stars:</h1>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bohdan-tkachenko-8283a3137/)](https://www.linkedin.com/in/bohdan-tkachenko-8283a3137/)
 
 ## About Me :wave:
 
